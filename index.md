@@ -1,12 +1,14 @@
-## Welcome to GitHub Pages
+## The Game of Communal Living!
 
-You can use the [editor on GitHub](https://github.com/tingertuk/test/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+You can use purchase [Co-op](https://www.thegamecrafter.com/games/co-op1) directly from The Game Crafter, which will print and send it to you on demand.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Co-op is a non-cooperative game - meaning that there is one winner (or more). The game is designed to simulate different aspects of communal living. It plays with the dynamics of working together to keep the house clean while slacking-off here and there to get some free time and make take a vacation! But do so at your own risk because your ruthless housemates might get back to you and vote some new house rules to make sure you are behaving properly. Another aspect of sharing a living space is getting to know people and making friends. Making friends as an adult can be quite tricky, and living with other people is a great way to have a lot of unstructured, unplanned, fun time. One is always getting to know a little bit more about their housemates throughout their daily interactions, and Co-op aims to do just the same. Co-o is a very social game with a strong get-to-know-you component, making people interact through silly activities or sharing some of their stories and dreams. If want to experience the challenges and glory of living with a bunch of weirdos, take your site at our table and play a round of Co-op.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+
+### About the designers
+
+Kosta and Tiago are longtime coopers who crossed paths in a housing cooperative in Madison, WI during their time in graduate school (Tiago is still stuck there). 
 
 ```markdown
 Syntax highlighted code block
