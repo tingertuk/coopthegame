@@ -1,39 +1,23 @@
-## The Game of Communal Living!
+# The Game of Communal Living!
 
-You can use purchase [Co-op](https://www.thegamecrafter.com/games/co-op1) directly from The Game Crafter, which will print and send it to you on demand.
+You can purchase [_CO-OP_](https://www.thegamecrafter.com/games/co-op1) directly from The Game Crafter, which will print and send it to you on demand.
 
-Co-op is a non-cooperative game - meaning that there is one winner (or more). The game is designed to simulate different aspects of communal living. It plays with the dynamics of working together to keep the house clean while slacking-off here and there to get some free time and make take a vacation! But do so at your own risk because your ruthless housemates might get back to you and vote some new house rules to make sure you are behaving properly. Another aspect of sharing a living space is getting to know people and making friends. Making friends as an adult can be quite tricky, and living with other people is a great way to have a lot of unstructured, unplanned, fun time. One is always getting to know a little bit more about their housemates throughout their daily interactions, and Co-op aims to do just the same. Co-o is a very social game with a strong get-to-know-you component, making people interact through silly activities or sharing some of their stories and dreams. If want to experience the challenges and glory of living with a bunch of weirdos, take your site at our table and play a round of Co-op.
+_CO-OP_ is not a cooperative game - meaning that there is one (or more) winner. The game is designed to simulate different aspects of the life in a housing cooperative (co-op, for short). It plays with the dynamics of working together with your housemates to keep the house clean while slacking-off here and there to get some free time and maybe take a vacation. However, slack-off at your own risk because your ruthless housemates might get back to you and vote some new house rules to make sure you are behaving properly. Another aspect of sharing a living space is getting to know people and making friends. Making friends as an adult can be quite tricky, and living with other people is a great way to have a lot of unstructured, unplanned, fun time. _CO-OP_ is a very social game with a strong get-to-know-you component, making people interact through silly activities or sharing some of their stories and dreams. If want to experience the challenges and glory of living with a bunch of weirdos, take your site at our table and play a round of _CO-OP_.
 
+## About the game
+In the game, each player represents a housemate in the same co-op. Players must take 1 "action" on each of their turns, the most basic of which are Cleaning and Slacking Off. When a player Slacks Off, they convert some of the house's Cleanliness into their own Free Time (duh!)---this Free Time can be spent to gain points that help win the game. When a player Cleans, they gain access to Karma (by their good deeds), or may influence the very mechanics of the game by trying to pass a House Rule. Karma and Rules are represented by their own decks of cards: the Karma Cards confer secret advantages that may be played at a later opportune moment, while Rules are drafted from a row of 5 cards that are publicly displayed to all players.
 
+It's worth noting that _CO-OP_ is NOT a "cooperative game" (there are individual winners), and there can be a lot to keep track of if you want to best the other players (grrr). However, the play experience is usually quite casual---this is largely due to the Karma Cards, which each have their own co-op-y theme, and require the player to perform a mini-activity in order to gain the card's benefits. Some activities simply encourage players to share their life experience, while others might ask them to sing a song or tell a joke... something different every time! _CO-OP_ is a blast with friends and family, and also a great way to break the ice with perfect strangers.
 
-### About the designers
+## About co-ops
+If you don't know much about co-ops, it is worth checking out some information online about this way of living. Co-ops are usually a non-profit, anti-capitalist alternative to the housing market. It is a stance you can make with our rent money and a very sustainable way of managing resources in a household. You might want to start at this cool [wikipedia article](https://en.wikipedia.org/wiki/Housing_cooperative) if you would like to know more - also feel free to reach out to us (Kosta and Tiago) and we will be delighted to talk anything co-op.
 
+## About the designers
 Kosta and Tiago are longtime coopers who crossed paths in a housing cooperative in Madison, WI during their time in graduate school (Tiago is still stuck there). 
 
-```markdown
-Syntax highlighted code block
+Kosta has lived in co-ops in Berkeley as a undergraduate student and then again in Madison. Now located in Boulder pursuing the next step of his academic career. Tiago has lived in different co-ops in Madison and still lives in one currently, still working on hi PhD. Much of the inspiration for the game comes from their experience living in co-ops and hanging out with other co-opers - the germ idea for the game actually came from a road trip with co-opers from different houses.
 
-# Header 1
-## Header 2
-### Header 3
+They are not game designers by trade, and developed this game in parallel to research and academic activities. Nonetheless, over the course of two years working on the game and playtesting both got a large exposure to the world of game designing. Luckily, Madison was a very welcoming city for this kind of activities. There are plenty of game stores, game designers, game-related companies (such as The Game Crafter) and conventions happening in Madison. The collection of their experiences as co-opers, love for games, and input from multiple playtesters (co-opers and non-co-opers alike) resulted in the game available here. 
 
-- Bulleted
-- List
+In the spirit of cooperation, shared information and shared labor, the game is been sold practically at no profit to ourselves (The Game Crafter only allows round numbers for prices so even though the cost is $28.75 the cheapest it can be sold in their website is $28.99). We are making the files available for download, in case you want to download your own copy of the game. That is only possible because making this game is something we did for fun, a side project, parallel to our jobs. None of us intended on making a profit from this game from the beginning. 
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/tingertuk/test/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
